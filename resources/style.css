@@ -32,3 +32,10 @@ h3 {
     font-size: 21p;
     color: gray;
 }
+
+footer {
+    margin: 2em 0;
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
